@@ -11,7 +11,7 @@ This is a simple web application project that uses the following technologies:
 
 Steps taken so far:
 
-1. Created GitHub Repository, linked project and carried out initial commit
+1. Created GitHub Repository, linked project and carried out initial commits
 
 2. Created standard Gradle/Maven File structure
 
